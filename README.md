@@ -1,36 +1,55 @@
-# SST-Website
+<div align="center">
 
-Website for Shree Shyam Traders' business.
+# Shree Shyam Traders — Official Website
+
+**A clean, responsive business website built to establish Shree Shyam Traders' digital presence and drive customer engagement.**
+
+[![Live Site](https://img.shields.io/badge/Live_Site-shreeshyamtraders.co.in-black?style=for-the-badge&logo=netlify)](https://shreeshyamtraders.co.in)
+[![Netlify](https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shreeshyamtraders.netlify.app)
+
+</div>
+
+---
 
 ## 🌐 Live Sites
 
-* [shreeshyamtraders.netlify.app](https://shreeshyamtraders.netlify.app)
-* [shreeshyamtraders.co.in](https://shreeshyamtraders.co.in)
+- **Primary:** [shreeshyamtraders.co.in](https://shreeshyamtraders.co.in)
+- **Mirror:** [shreeshyamtraders.netlify.app](https://shreeshyamtraders.netlify.app)
 
-## 💼 About
+---
 
-This website represents **Shree Shyam Traders**, showcasing their products, services, and business information online. It provides an easy way for customers to learn about the company and get in touch.
+## 📖 Overview
 
-## 🛠️ Features
+The official web presence for **Shree Shyam Traders** — built to showcase their products, services, and business profile while making it simple for customers to connect and enquire.
 
-* Modern responsive design
-* Product/service listings
-* Contact form for inquiries
-* Multi-platform accessibility
+---
 
-## 📂 Project Structure
+## ✨ Features
 
-* `/src` – Source code (HTML, CSS, JS, or React files)
-* `/assets` – Images, logos, and other media
-* `/public` – Public files for hosting
+- Fully responsive across all devices and screen sizes
+- Product and service listings with clear information hierarchy
+- Integrated contact form for direct customer enquiries
+- Fast load times with optimised asset delivery via Netlify's CDN
 
-## 🚀 Deployment
+---
 
-* Hosted on [Netlify](https://www.netlify.app/)
-* Custom domain setup available via `shreeshyamtraders.co.in`
+## 🛠 Tech Stack
 
-## 📌 License
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Hosting** | Netlify |
+| **Domain** | Custom — `shreeshyamtraders.co.in` |
 
-Specify license here (e.g., MIT).
+---
 
+## 📬 Built By
 
+- **LinkedIn:** [linkedin.com/in/anusthan12](https://www.linkedin.com/in/anusthan12/)
+- **Portfolio:** [anusthan-singh.vercel.app](https://anusthan-singh.vercel.app/)
+
+---
+
+<div align="center">
+  <p>Built and maintained by <a href="https://github.com/anusthan12">Anusthan Singh</a> · © 2025</p>
+</div>
